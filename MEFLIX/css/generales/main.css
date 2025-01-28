@@ -16,12 +16,16 @@
   align-items: center;
 }
 
-.header_logo img {
-  width: 40%;
+.header_redes {
+  text-align: center;
 }
 
 .header_redes img {
   width: 32px;
+}
+
+.header_logo img {
+  width: 40%;
 }
 
 * {
