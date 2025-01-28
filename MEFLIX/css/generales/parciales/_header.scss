@@ -1,0 +1,59 @@
+// grid areas
+.header_logo{
+    grid-area: header_logo;
+}
+
+.header_redes{
+    grid-area: header_redes;
+}
+
+.header_login{
+    grid-area: header_login;
+}
+// caracteristicas generales header
+.header{
+    display: grid;
+    grid-template-areas: 
+    "header_logo header_login"
+    "header_redes header_redes";
+    align-items: center;
+}
+
+.header_logo img{
+    width: 40%;
+}
+
+.header_redes img{
+    width: 32px;
+}
+
+
+
+
+
+
+
+
+// media queries 
+@media (min-width: 576px) {
+    
+}
+
+
+@media (min-width: 768px) {
+
+}
+
+
+@media (min-width: 992px) {
+
+}
+
+
+@media (min-width: 1200px) {
+
+}
+
+@media (min-width: 1400px) {
+
+}

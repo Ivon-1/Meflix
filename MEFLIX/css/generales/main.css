@@ -1,0 +1,51 @@
+.header_logo {
+  grid-area: header_logo;
+}
+
+.header_redes {
+  grid-area: header_redes;
+}
+
+.header_login {
+  grid-area: header_login;
+}
+
+.header {
+  display: grid;
+  grid-template-areas: "header_logo header_login" "header_redes header_redes";
+  align-items: center;
+}
+
+.header_logo img {
+  width: 40%;
+}
+
+.header_redes img {
+  width: 32px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+body {
+  background-color: #103A38;
+}
+
+.header_login {
+  color: #FFFFFF;
+}/*# sourceMappingURL=main.css.map */
