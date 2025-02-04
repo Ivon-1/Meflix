@@ -45,3 +45,34 @@ busqueda.addEventListener( 'click' , () =>{
         console.log('No hay texto en el buscador');
     }
 })
+
+//FUNCION PARA SACAR LAS CATEGORIAS.
+
+
+function mostrarCategorias(Genre){
+    const categorias = document.getElementById("categorias");
+    categorias.innerHTML = "";
+
+    const opcionDefecto = document.createElement('option');
+    opcionDefecto.text = "Seleccione una categoria";
+    opcionDefecto.value = "";
+    categorias.appendChild(opcionDefecto);
+
+    const categoriasArray = Genre.split(', ');
+    
+    categoriasArray.forEach(categoria => {
+        const elemento = document.createElement('option');
+        elemento.textContent = categoria;  
+        categorias.appendChild(elemento);
+    });
+}
+
+const btn_categoria = document.getElementById("btn_categoria");
+
+btn_categoria.addEventListener('click' , () =>{
+    const categoria = document.getElementById("categorias");
+    const categoriaSeleccionada = categoria.value;
+    if(categoriaSeleccionada){
+        mostrarPeliculas(categoriaSeleccionada);
+    }
+})
