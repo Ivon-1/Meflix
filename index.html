@@ -10,7 +10,7 @@
 </head>
 <body class="body">
     <!--HEADER-->
-    <header class="header">
+    <header class="header justify-content-around">
         <div>
             <img id="logo" src="TrabajoPeliculas/images/logo_sin_fondo.png" alt="">
         </div>
@@ -29,35 +29,22 @@
             </a>
     
             
-            <button class="boton_login">Iniciar sesion</button>
+            <button type="button" class="btn btn-dark fw-bold mx-3" style="width: 200px;">Iniciar sesion</button>
+            <button type="button" class="btn btn-dark fw-bold" style="width: 200px;">Suscribirse</button>
         </div>
     </header>
 
     <h1 id="h1">Peliculas</h1>
     
     <!--BOTONES CATEGORIA-->
-
-    <div class="btn-group" role="group" aria-label="Basic radio toggle button group">
-        <input type="radio" class="btn-check" name="btnradio" id="btnradio1" autocomplete="off" checked>
-        <label class="btn btn-dark" for="btnradio1">En primer plano</label>
-    
-        <input type="radio" class="btn-check" name="btnradio" id="btnradio2" autocomplete="off">
-        <label class="btn btn-dark" for="btnradio2">Acción</label>
-    
-        <input type="radio" class="btn-check" name="btnradio" id="btnradio3" autocomplete="off">
-        <label class="btn btn-dark" for="btnradio3">Aventura</label>
-    
-        <input type="radio" class="btn-check" name="btnradio" id="btnradio4" autocomplete="off">
-        <label class="btn btn-dark" for="btnradio4">Comedia</label>
-    
-        <input type="radio" class="btn-check" name="btnradio" id="btnradio5" autocomplete="off">
-        <label class="btn btn-dark" for="btnradio5">Ciencia ficción</label>
-    
-        <input type="radio" class="btn-check" name="btnradio" id="btnradio6" autocomplete="off">
-        <label class="btn btn-dark" for="btnradio6">Documentales</label>
-    
-        <input type="radio" class="btn-check" name="btnradio" id="btnradio7" autocomplete="off">
-        <label class="btn btn-dark" for="btnradio7">Terror</label>
+    <div class="contenedor_botones text-center mb-5">
+        <button type="button" class="btn btn-dark fw-bold" style="width: 200px;">En primer plano</button>
+        <button type="button" class="btn btn-dark fw-bold" style="width: 200px;">Accion</button>
+        <button type="button" class="btn btn-dark fw-bold" style="width: 200px;">Aventura</button>
+        <button type="button" class="btn btn-dark fw-bold" style="width: 200px;">Comedia</button>
+        <button type="button" class="btn btn-dark fw-bold" style="width: 200px;">Ciencia ficcion</button>
+        <button type="button" class="btn btn-dark fw-bold" style="width: 200px;">Documentales</button>
+        <button type="button" class="btn btn-dark fw-bold" style="width: 200px;">Terror</button>
     </div>
 
 
@@ -67,9 +54,37 @@
     <!--PELICULAS-->
     <div id="card"></div>
 
-</div>
+    <!--FOOTER-->
+    <footer class="bg-black d-flex flex-wrap justify-content-evenly align-items-center mt-4 m-auto" style="height: 300px;">
+        <div>
+            <img style="width: 300px;" src="TrabajoPeliculas/images/logo_sin_fondo.png" alt="">
+        </div>
 
+        <div>
+            <ul class="list-unstyled">
+                <li><a class="text-white fw-bold text-decoration-none" href="#">Inicio</a></li>
+                <li><a class="text-white fw-bold text-decoration-none" href="#">Servicio peliculas</a></li>
+                <li><a class="text-white fw-bold text-decoration-none" href="#">Servicio series</a></li>
+                <li><a class="text-white fw-bold text-decoration-none" href="#">Servicio documentales</a></li>
+            </ul>
+        </div>
 
+        <div>
+            <ul class="list-unstyled">
+                <li><a class="text-white fw-bold text-decoration-none" href="#">Politica de estado</a></li>
+                <li><a class="text-white fw-bold text-decoration-none" href="#">Politica de datos</a></li>
+                <li><a class="text-white fw-bold text-decoration-none" href="#">Politica de privacidad</a></li>
+                <li><a class="text-white fw-bold text-decoration-none" href="#">Politica de cookies</a></li>
+            </ul>
+        </div>
+
+        <div class="app">
+            <img style="width: 45px;" src="TrabajoPeliculas/images/facebook.png" alt="">
+            <img style="width: 45px;" src="TrabajoPeliculas/images/instagram.png" alt="">
+            <img style="width: 45px;" src="TrabajoPeliculas/images/linkedin.png" alt="">
+            <img style="width: 45px;" src="TrabajoPeliculas/images/tik-tok.png" alt="">
+        </div>
+    </footer>
 </body>
 <script src="index.js"></script>
 </html>
