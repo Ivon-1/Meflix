@@ -25,6 +25,7 @@
     font-style: normal;
 }
 
+
 // general
 .header{
     display: grid;
@@ -68,8 +69,6 @@
     font-weight: bold;
 }
 
-
-
 .correo_electronico{
     display: flex;
     flex-direction: column;
@@ -108,6 +107,25 @@
 }
 
 .suscribete:hover{
+    background-color: orange;
+}
+
+/** menu */
+.menu{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2%;
+    font-family: 'Bebas Neue';
+    font-family: 20px;
+}
+
+.menu a{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.menu a:hover{
     background-color: orange;
 }
 
@@ -374,6 +392,15 @@ footer h3{
 
     .header_redes img{
         width: 50px;
+    }
+
+    /** f */
+    .menu{
+        display: grid;
+        grid-template-columns: repeat(5,1fr);
+        margin-left: 8%;
+        margin-right: 8%;
+        gap: 5px;
     }
 
     /** seccion 1 */
