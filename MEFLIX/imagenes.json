@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "url": "https://hips.hearstapps.com/hmg-prod/images/el-sen-or-de-los-anillos-los-anillos-de-poder-66d6de11d8885.jpg",
+        "titulo": "Imagen de la API",
+        "descripcion": "Descripción desde la API."
+    },{
+        "id": 2,
+        "url": "/IMÁGENES/thebeart.jpg",
+        "titulo": "Imagen de la API",
+        "descripcion": "Descripción desde la API."
+    },{
+        "id": 3,
+        "url": "/IMÁGENES/largassombras.jpg",
+        "titulo": "Imagen de la API",
+        "descripcion": "Descripción desde la API."
+    },{
+        "id": 4,
+        "url": "/IMÁGENES/loki.jpg",
+        "titulo": "Imagen de la API",
+        "descripcion": "Descripción desde la API."
+    },{
+        "id": 5,
+        "url": "/IMÁGENES/mandalorian.jpg",
+        "titulo": "Imagen de la API",
+        "descripcion": "Descripción desde la API."
+    },{
+        "id": 6,
+        "url": "/IMÁGENES/percyJackson.jpg",
+        "titulo": "Imagen de la API",
+        "descripcion": "Descripción desde la API."
+    },{
+        "id": 7,
+        "url": "https://moviepostermexico.com/cdn/shop/products/134556_2048x.jpg?v=1652236852",
+        "titulo": "Imagen de la API",
+        "descripcion": "Descripción desde la API."
+    },{
+        "id": 8,
+        "url": "https://es.web.img3.acsta.net/pictures/19/03/22/10/08/5883111.jpg?coixp=50&coiyp=40",
+        "titulo": "Imagen de la API",
+        "descripcion": "Descripción desde la API."
+    }
+]
