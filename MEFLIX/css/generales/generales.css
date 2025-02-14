@@ -21,5 +21,6 @@ ul {
 }
 
 body {
-  background-color: #103A38;
+  background: linear-gradient(to bottom, #0F3937 40%, #4A1717 100%);
+  color: whitesmoke;
 }/*# sourceMappingURL=generales.css.map */
