@@ -2,7 +2,6 @@ window.onload = function () {
     cargarPeliculasSimilares();
 };
 //FUNCION PARA OBTENER LAS PELICULAS DEL JSON
-//         const data = await response.json();
 async function getMovieData(title) {
     try {
         const apiKey = "5946c981"; // 🔴 Reemplázalo con tu clave gratuita de OMDb
