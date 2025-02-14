@@ -2,18 +2,19 @@ window.onload = function () {
     cargarPeliculasSimilares();
 };
 //FUNCION PARA OBTENER LAS PELICULAS DEL JSON
-// async function getMovieData(title) {
-//     try {
-//         const apiKey = "5946c981"; // 🔴 Reemplázalo con tu clave gratuita de OMDb
-//         const response = await fetch(`https://www.omdbapi.com/?t=${title}&apikey=${apiKey}`);
 //         const data = await response.json();
+async function getMovieData(title) {
+    try {
+        const apiKey = "5946c981"; // 🔴 Reemplázalo con tu clave gratuita de OMDb
+        const response = await fetch(`https://www.omdbapi.com/?t=${title}&apikey=${apiKey}`);
+        const data = await response.json();
 
-//         return data.Response === "True" ? data : null;
-//     } catch (error) {
-//         console.error("Error al obtener los datos de la película:", error);
-//         return null;
-//     }
-// }
+        return data.Response === "True" ? data : null;
+    } catch (error) {
+        console.error("Error al obtener los datos de la película:", error);
+        return null;
+    }
+}
 //FUNCION PARA CARGAR LAS PELICULAS Y PINTARLAS
 async function cargarPeliculasSimilares() {
     const similaresContainer = document.getElementById("similares");
