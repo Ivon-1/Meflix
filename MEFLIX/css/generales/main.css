@@ -373,6 +373,7 @@ footer h3 {
   }
   /** f */
   .menu {
+    margin-top: 2%;
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     margin-left: 8%;
