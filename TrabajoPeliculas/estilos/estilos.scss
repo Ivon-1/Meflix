@@ -40,15 +40,46 @@
     }
 }
 
-.card{
+.tarjeta{
     width: 200px;
-    margin: auto;
     height: 100px;
     margin-bottom: 20px;
+    margin: auto;
     margin-top: 20px;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    .detalles{
+        display: none;
+        position: absolute;
+
+    }
 }
 
-.card img{
+.tarjeta:hover{
+    transform: scale(1.05);
+    opacity: 0.8;
+    width: 80%;
+    padding: 2px;
+    .detalles{
+        display: block;
+        align-items: center;
+        background-color: black;
+        width: 100%;
+        height: 35%;
+        margin-top: 2px;
+        bottom: 0;
+        opacity: 0.8;
+        p , h4{
+            color: white;
+        }
+        img{
+            color: white;
+            border-radius: 5px;
+        }
+    }
+}
+
+.tarjeta img{
     width: 100%;
     height: 300px;
 }

@@ -5,110 +5,107 @@
         "ano" : 2012,
         "genero" : "Ciencia ficcion",
         "imagen" : "https://i.pinimg.com/736x/69/6d/d9/696dd9e70d854d0562f7d5e180f2f4a5.jpg",
-        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad mundial, Nicholas Fury, Director de la agencia internacional para el mantenimiento de la paz, conocida con el nombre de S.H.I.E.L.D., necesita encontrar urgentemente un equipo que salve al mundo del mayor de los desastres."
+        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad mundial, Nicholas Fury, Director de la agencia internacional para el mantenimiento de la paz, conocida con el nombre de S.H.I.E.L.D., necesita encontrar urgentemente un equipo que salve al mundo del mayor de los desastres.",
+        "duracion": 143
     },
-
     {
         "id" : 2,
         "titulo" : "Avengers 2",
         "ano" : 2015,
         "genero" : "Ciencia ficcion",
         "imagen" : "https://es.web.img3.acsta.net/pictures/15/02/25/10/37/363909.jpg",
-        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad mundial, Nicholas Fury, Director de la agencia internacional para el mantenimiento de la paz, conocida con el nombre de S.H.I.E.L.D., necesita encontrar urgentemente un equipo que salve al mundo del mayor de los desastres."
+        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad mundial, Nicholas Fury, Director de la agencia internacional para el mantenimiento de la paz, conocida con el nombre de S.H.I.E.L.D., necesita encontrar urgentemente un equipo que salve al mundo del mayor de los desastres.",
+        "duracion": 141
     },
-
     {
         "id" : 3,
         "titulo" : "Avengers Infinity War",
         "ano" : 2018,
         "genero" : "Ciencia ficcion",
         "imagen" : "https://es.web.img3.acsta.net/pictures/18/03/16/15/33/3988420.jpg",
-        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad mundial, Nicholas Fury, Director de la agencia internacional para el mantenimiento de la paz, conocida con el nombre de S.H.I.E.L.D., necesita encontrar urgentemente un equipo que salve al mundo del mayor de los desastres."
+        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad mundial, Nicholas Fury, Director de la agencia internacional para el mantenimiento de la paz, conocida con el nombre de S.H.I.E.L.D., necesita encontrar urgentemente un equipo que salve al mundo del mayor de los desastres.",
+        "duracion": 149
     },
-
     {
-        
         "id" : 4,
         "titulo" : "Avengers End Game",
         "ano" : 2019,
         "genero" : "Ciencia ficcion",
         "imagen" : "https://pics.filmaffinity.com/Vengadores_Endgame-135478227-large.jpg",
-        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad mundial, Nicholas Fury, Director de la agencia internacional para el mantenimiento de la paz, conocida con el nombre de S.H.I.E.L.D., necesita encontrar urgentemente un equipo que salve al mundo del mayor de los desastres."
+        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad mundial, Nicholas Fury, Director de la agencia internacional para el mantenimiento de la paz, conocida con el nombre de S.H.I.E.L.D., necesita encontrar urgentemente un equipo que salve al mundo del mayor de los desastres.",
+        "duracion": 181
     },
-
     {
-        
         "id" : 5,
         "titulo" : "Capitan America",
         "ano" : 2011,
         "genero" : "Ciencia ficcion",
         "imagen" : "https://pics.filmaffinity.com/Capitaan_Amaerica_El_primer_vengador-163477639-large.jpg",
-        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad mundial, Nicholas Fury, Director de la agencia internacional para el mantenimiento de la paz, conocida con el nombre de S.H.I.E.L.D., necesita encontrar urgentemente un equipo que salve al mundo del mayor de los desastres."
+        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad mundial, Nicholas Fury, Director de la agencia internacional para el mantenimiento de la paz, conocida con el nombre de S.H.I.E.L.D., necesita encontrar urgentemente un equipo que salve al mundo del mayor de los desastres.",
+        "duracion": 124
     },
-
     {
-        
         "id" : 6,
         "titulo" : "Capitan America - El soldado del invierno",
         "ano" : 2014,
         "genero" : "Ciencia ficcion",
         "imagen" : "https://pics.filmaffinity.com/Capitaan_Amaerica_El_Soldado_de_Invierno-333149071-large.jpg",
-        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad mundial, Nicholas Fury, Director de la agencia internacional para el mantenimiento de la paz, conocida con el nombre de S.H.I.E.L.D., necesita encontrar urgentemente un equipo que salve al mundo del mayor de los desastres."
+        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad mundial, Nicholas Fury, Director de la agencia internacional para el mantenimiento de la paz, conocida con el nombre de S.H.I.E.L.D., necesita encontrar urgentemente un equipo que salve al mundo del mayor de los desastres.",
+        "duracion": 136
     },
-
     {
         "id" : 7,
         "titulo" : "Capitan America - Civil War",
         "ano" : 2016,
         "genero" : "Ciencia ficcion",
         "imagen" : "https://pics.filmaffinity.com/Capitaan_Amaerica_Civil_War-298011137-large.jpg",
-        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad mundial, Nicholas Fury, Director de la agencia internacional para el mantenimiento de la paz, conocida con el nombre de S.H.I.E.L.D., necesita encontrar urgentemente un equipo que salve al mundo del mayor de los desastres."
+        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad mundial, Nicholas Fury, Director de la agencia internacional para el mantenimiento de la paz, conocida con el nombre de S.H.I.E.L.D., necesita encontrar urgentemente un equipo que salve al mundo del mayor de los desastres.",
+        "duracion": 147
     },
-
     {
         "id" : 8,
         "titulo" : "Iron Man",
         "ano" : 2008,
         "genero" : "Ciencia ficcion",
         "imagen" : "https://pics.filmaffinity.com/Iron_Man-773611005-large.jpg",
-        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad mundial, Nicholas Fury, Director de la agencia internacional para el mantenimiento de la paz, conocida con el nombre de S.H.I.E.L.D., necesita encontrar urgentemente un equipo que salve al mundo del mayor de los desastres."
+        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad mundial, Nicholas Fury, Director de la agencia internacional para el mantenimiento de la paz, conocida con el nombre de S.H.I.E.L.D., necesita encontrar urgentemente un equipo que salve al mundo del mayor de los desastres.",
+        "duracion": 126
     },
-
     {
         "id" : 9,
         "titulo" : "Iron Man 2",
         "ano" : 2010,
         "genero" : "Ciencia ficcion",
         "imagen" : "https://pics.filmaffinity.com/Iron_Man_2-466103197-large.jpg",
-        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad mundial, Nicholas Fury, Director de la agencia internacional para el mantenimiento de la paz, conocida con el nombre de S.H.I.E.L.D., necesita encontrar urgentemente un equipo que salve al mundo del mayor de los desastres."
+        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad mundial, Nicholas Fury, Director de la agencia internacional para el mantenimiento de la paz, conocida con el nombre de S.H.I.E.L.D., necesita encontrar urgentemente un equipo que salve al mundo del mayor de los desastres.",
+        "duracion": 124
     },
-
     {
         "id" : 10,
         "titulo" : "Iron Man 3",
         "ano" : 2013,
         "genero" : "Ciencia ficcion",
         "imagen" : "https://pics.filmaffinity.com/Iron_Man_3-972235216-large.jpg",
-        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad mundial, Nicholas Fury, Director de la agencia internacional para el mantenimiento de la paz, conocida con el nombre de S.H.I.E.L.D., necesita encontrar urgentemente un equipo que salve al mundo del mayor de los desastres."
+        "descripcion" : "Cuando un enemigo inesperado amenaza con poner en peligro la seguridad mundial, Nicholas Fury, Director de la agencia internacional para el mantenimiento de la paz, conocida con el nombre de S.H.I.E.L.D., necesita encontrar urgentemente un equipo que salve al mundo del mayor de los desastres.",
+        "duracion": 130
     },
-
-
     {
         "id" : 11,
         "titulo" : "Capitan America - Un Nuevo Mundo",
         "ano" : 2025,
         "genero" : "Ciencia ficcion",
         "imagen" : "https://www.infobae.com/new-resizer/VM9zrBqMwq0dNOdk0Z5kr2Mpgc0=/arc-anglerfish-arc2-prod-infobae/public/DYWG2KH3HZFWPLKR6LQ3ISSJKQ.jpg",
-        "descripcion" : "Una nueva aventura empieza con el capitan america , nace un nuevo heroe en la sociedad."
+        "descripcion" : "Una nueva aventura empieza con el capitan america , nace un nuevo heroe en la sociedad.",
+        "duracion": 135
     },
-
     {
         "id": 12,
         "titulo": "Mad Max: Furia en la carretera",
         "ano": 2015,
         "genero": "Acción",
         "imagen": "https://pics.filmaffinity.com/Mad_Max_Furia_en_la_carretera-542936842-large.jpg",
-        "descripcion": "En un mundo postapocalíptico, Max se une a Furiosa para escapar de un tirano y su ejército de warboys."
+        "descripcion": "En un mundo postapocalíptico, Max se une a Furiosa para escapar de un tirano y su ejército de warboys.",
+        "duracion": 120
     },
     {
         "id": 13,
@@ -116,7 +113,8 @@
         "ano": 2014,
         "genero": "Acción",
         "imagen": "https://musicart.xboxlive.com/7/0dcd1800-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
-        "descripcion": "Un exasesino a sueldo regresa al mundo del crimen para vengar la muerte de su cachorro, regalo de su difunta esposa."
+        "descripcion": "Un exasesino a sueldo regresa al mundo del crimen para vengar la muerte de su cachorro, regalo de su difunta esposa.",
+        "duracion": 101
     },
     {
         "id": 14,
@@ -124,7 +122,8 @@
         "ano": 2000,
         "genero": "Acción",
         "imagen": "https://pics.filmaffinity.com/Gladiator-368149580-large.jpg",
-        "descripcion": "Un general romano es traicionado y obligado a convertirse en gladiador para vengar la muerte de su familia."
+        "descripcion": "Un general romano es traicionado y obligado a convertirse en gladiador para vengar la muerte de su familia.",
+        "duracion": 155
     },
     {
         "id": 15,
@@ -132,7 +131,8 @@
         "ano": 1988,
         "genero": "Acción",
         "imagen": "https://pics.filmaffinity.com/Jungla_de_cristal-336213173-large.jpg",
-        "descripcion": "Un policía de Nueva York lucha contra terroristas que han tomado un rascacielos en Los Ángeles."
+        "descripcion": "Un policía de Nueva York lucha contra terroristas que han tomado un rascacielos en Los Ángeles.",
+        "duracion": 132
     },
     {
         "id": 16,
@@ -140,7 +140,8 @@
         "ano": 1991,
         "genero": "Acción",
         "imagen": "https://pics.filmaffinity.com/Terminator_2_El_juicio_final-825143697-large.jpg",
-        "descripcion": "Un cyborg del futuro es reprogramado para proteger a un joven de un nuevo y más peligroso asesino."
+        "descripcion": "Un cyborg del futuro es reprogramado para proteger a un joven de un nuevo y más peligroso asesino.",
+        "duracion": 137
     },
     {
         "id": 17,
@@ -148,7 +149,8 @@
         "ano": 2008,
         "genero": "Acción",
         "imagen": "https://pics.filmaffinity.com/El_caballero_oscuro-102763119-large.jpg",
-        "descripcion": "Batman se enfrenta al Joker, un criminal que busca sumergir a Gotham en el caos."
+        "descripcion": "Batman se enfrenta al Joker, un criminal que busca sumergir a Gotham en el caos.",
+        "duracion": 152
     },
     {
         "id": 18,
@@ -156,7 +158,8 @@
         "ano": 2015,
         "genero": "Acción",
         "imagen": "https://pics.filmaffinity.com/Misiaon_Imposible_Naciaon_Secreta-224283177-large.jpg",
-        "descripcion": "Ethan Hunt y su equipo se enfrentan a una organización secreta entrenada para destruir al IMF."
+        "descripcion": "Ethan Hunt y su equipo se enfrentan a una organización secreta entrenada para destruir al IMF.",
+        "duracion": 131
     },
     {
         "id": 19,
@@ -164,7 +167,8 @@
         "ano": 2014,
         "genero": "Acción",
         "imagen": "https://m.media-amazon.com/images/I/618k48lyu4L._AC_UF894,1000_QL80_.jpg",
-        "descripcion": "Un exagente de la CIA se ve obligado a regresar al mundo del espionaje para rescatar a su hija secuestrada."
+        "descripcion": "Un exagente de la CIA se ve obligado a regresar al mundo del espionaje para rescatar a su hija secuestrada.",
+        "duracion": 132
     },
     {
         "id": 20,
@@ -172,7 +176,8 @@
         "ano": 2008,
         "genero": "Acción",
         "imagen": "https://es.web.img3.acsta.net/medias/nmedia/18/66/89/00/20198925.jpg",
-        "descripcion": "Un exagente de la CIA recurre a sus habilidades para rastrear y rescatar a su hija secuestrada en París."
+        "descripcion": "Un exagente de la CIA recurre a sus habilidades para rastrear y rescatar a su hija secuestrada en París.",
+        "duracion": 90
     },
     {
         "id": 21,
@@ -180,7 +185,8 @@
         "ano": 2007,
         "genero": "Acción",
         "imagen": "https://m.media-amazon.com/images/I/715VRiYcnCL._AC_UF894,1000_QL80_.jpg",
-        "descripcion": "Jason Bourne busca descubrir la verdad detrás de su identidad mientras es perseguido por la CIA."
+        "descripcion": "Jason Bourne busca descubrir la verdad detrás de su identidad mientras es perseguido por la CIA.",
+        "duracion": 115
     },
     {
         "id": 22,
@@ -188,7 +194,8 @@
         "ano": 2006,
         "genero": "Acción",
         "imagen": "https://pics.filmaffinity.com/300-676981574-large.jpg",
-        "descripcion": "La historia de los 300 espartanos que lucharon hasta la muerte contra el ejército persa en la Batalla de las Termópilas."
+        "descripcion": "La historia de los 300 espartanos que lucharon hasta la muerte contra el ejército persa en la Batalla de las Termópilas.",
+        "duracion": 117
     },
     {
         "id": 23,
@@ -196,7 +203,8 @@
         "ano": 2003,
         "genero": "Acción",
         "imagen": "https://pics.filmaffinity.com/Kill_Bill_Volumen_1-216872360-large.jpg",
-        "descripcion": "Una exasesina busca venganza contra su antiguo equipo y su líder, conocido como 'Bill'."
+        "descripcion": "Una exasesina busca venganza contra su antiguo equipo y su líder, conocido como 'Bill'.",
+        "duracion": 111
     },
     {
         "id": 24,
@@ -204,7 +212,7 @@
         "ano": 2016,
         "genero": "Acción",
         "imagen": "https://pics.filmaffinity.com/The_Equalizer_2-467654738-large.jpg",
-        "descripcion": "Un exagente de la CIA se ve obligado a regresar al mundo del espionaje para rescatar a su hija secuestrada."
+        "descripcion": "Un exagente de la CIA se ve obligado a regresar al mundo del espionaje para rescatar a su hija secuestrada.",
+        "duracion": 121
     }
-
 ]
