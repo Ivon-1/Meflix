@@ -102,25 +102,16 @@
         "id": 12,
         "titulo": "Mad Max: Furia en la carretera",
         "ano": 2015,
-        "genero": "Acción",
+        "genero": "Accion",
         "imagen": "https://pics.filmaffinity.com/Mad_Max_Furia_en_la_carretera-542936842-large.jpg",
         "descripcion": "En un mundo postapocalíptico, Max se une a Furiosa para escapar de un tirano y su ejército de warboys.",
         "duracion": 120
     },
     {
-        "id": 13,
-        "titulo": "John Wick",
-        "ano": 2014,
-        "genero": "Acción",
-        "imagen": "https://musicart.xboxlive.com/7/0dcd1800-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
-        "descripcion": "Un exasesino a sueldo regresa al mundo del crimen para vengar la muerte de su cachorro, regalo de su difunta esposa.",
-        "duracion": 101
-    },
-    {
         "id": 14,
         "titulo": "Gladiator",
         "ano": 2000,
-        "genero": "Acción",
+        "genero": "Accion",
         "imagen": "https://pics.filmaffinity.com/Gladiator-368149580-large.jpg",
         "descripcion": "Un general romano es traicionado y obligado a convertirse en gladiador para vengar la muerte de su familia.",
         "duracion": 155
@@ -129,7 +120,7 @@
         "id": 15,
         "titulo": "Die Hard: La jungla de cristal",
         "ano": 1988,
-        "genero": "Acción",
+        "genero": "Accion",
         "imagen": "https://pics.filmaffinity.com/Jungla_de_cristal-336213173-large.jpg",
         "descripcion": "Un policía de Nueva York lucha contra terroristas que han tomado un rascacielos en Los Ángeles.",
         "duracion": 132
@@ -138,7 +129,7 @@
         "id": 16,
         "titulo": "Terminator 2: El juicio final",
         "ano": 1991,
-        "genero": "Acción",
+        "genero": "Accion",
         "imagen": "https://pics.filmaffinity.com/Terminator_2_El_juicio_final-825143697-large.jpg",
         "descripcion": "Un cyborg del futuro es reprogramado para proteger a un joven de un nuevo y más peligroso asesino.",
         "duracion": 137
@@ -147,7 +138,7 @@
         "id": 17,
         "titulo": "El caballero oscuro",
         "ano": 2008,
-        "genero": "Acción",
+        "genero": "Accion",
         "imagen": "https://pics.filmaffinity.com/El_caballero_oscuro-102763119-large.jpg",
         "descripcion": "Batman se enfrenta al Joker, un criminal que busca sumergir a Gotham en el caos.",
         "duracion": 152
@@ -156,7 +147,7 @@
         "id": 18,
         "titulo": "Misión: Imposible – Nación Secreta",
         "ano": 2015,
-        "genero": "Acción",
+        "genero": "Accion",
         "imagen": "https://pics.filmaffinity.com/Misiaon_Imposible_Naciaon_Secreta-224283177-large.jpg",
         "descripcion": "Ethan Hunt y su equipo se enfrentan a una organización secreta entrenada para destruir al IMF.",
         "duracion": 131
@@ -165,7 +156,7 @@
         "id": 19,
         "titulo": "El protector",
         "ano": 2014,
-        "genero": "Acción",
+        "genero": "Accion",
         "imagen": "https://m.media-amazon.com/images/I/618k48lyu4L._AC_UF894,1000_QL80_.jpg",
         "descripcion": "Un exagente de la CIA se ve obligado a regresar al mundo del espionaje para rescatar a su hija secuestrada.",
         "duracion": 132
@@ -174,7 +165,7 @@
         "id": 20,
         "titulo": "Venganza",
         "ano": 2008,
-        "genero": "Acción",
+        "genero": "Accion",
         "imagen": "https://es.web.img3.acsta.net/medias/nmedia/18/66/89/00/20198925.jpg",
         "descripcion": "Un exagente de la CIA recurre a sus habilidades para rastrear y rescatar a su hija secuestrada en París.",
         "duracion": 90
@@ -183,7 +174,7 @@
         "id": 21,
         "titulo": "El ultimátum de Bourne",
         "ano": 2007,
-        "genero": "Acción",
+        "genero": "Accion",
         "imagen": "https://m.media-amazon.com/images/I/715VRiYcnCL._AC_UF894,1000_QL80_.jpg",
         "descripcion": "Jason Bourne busca descubrir la verdad detrás de su identidad mientras es perseguido por la CIA.",
         "duracion": 115
@@ -192,7 +183,7 @@
         "id": 22,
         "titulo": "300",
         "ano": 2006,
-        "genero": "Acción",
+        "genero": "Accion",
         "imagen": "https://pics.filmaffinity.com/300-676981574-large.jpg",
         "descripcion": "La historia de los 300 espartanos que lucharon hasta la muerte contra el ejército persa en la Batalla de las Termópilas.",
         "duracion": 117
@@ -201,7 +192,7 @@
         "id": 23,
         "titulo": "Kill Bill: Volumen 1",
         "ano": 2003,
-        "genero": "Acción",
+        "genero": "Accion",
         "imagen": "https://pics.filmaffinity.com/Kill_Bill_Volumen_1-216872360-large.jpg",
         "descripcion": "Una exasesina busca venganza contra su antiguo equipo y su líder, conocido como 'Bill'.",
         "duracion": 111
@@ -210,7 +201,7 @@
         "id": 24,
         "titulo": "El protector 2",
         "ano": 2016,
-        "genero": "Acción",
+        "genero": "Accion",
         "imagen": "https://pics.filmaffinity.com/The_Equalizer_2-467654738-large.jpg",
         "descripcion": "Un exagente de la CIA se ve obligado a regresar al mundo del espionaje para rescatar a su hija secuestrada.",
         "duracion": 121
@@ -646,5 +637,14 @@
         "imagen": "https://es.web.img2.acsta.net/pictures/15/12/14/16/38/050093.jpg",
         "descripcion": "Un explorador es dejado por muerto en el desierto y lucha por sobrevivir mientras busca venganza contra aquellos que lo traicionaron.",
         "duracion": "156"
-    } 
+    },
+    {
+        "id" : 73,
+        "titulo" : "Hulk",
+        "ano" : 2003,
+        "genero" : "Ciencia ficcion",
+        "imagen" : "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2008/6/w1280/p4NYZXVtgKf6aiH65QzzkUVJcsd.jpg",
+        "descripcion" : "El científico Bruce Banner recorre el mundo tratando de encontrar una cura a su problema, en busca de un antídoto que le permita librarse de su Alter Ego..",
+        "duracion": 138
+    }
 ]
