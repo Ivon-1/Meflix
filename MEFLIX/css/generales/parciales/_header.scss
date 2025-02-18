@@ -13,6 +13,7 @@
 
 .header_login a{
     color: white;
+    font-family: "Bebas Neue", serif;
 }
 
 .header_login:hover{
@@ -25,6 +26,10 @@
     font-style: normal;
 }
 
+.disponible{
+    font-size: 25px;
+}
+
 
 // general
 .header{
@@ -34,7 +39,7 @@
     "header_logo header_login"
     "header_redes header_redes";
     align-items: center;
-    margin-top: 10px;
+    background: linear-gradient(to bottom ,#4A1717  40%, #0F3937 100%);
 }
 
 .header_redes img{
@@ -216,11 +221,15 @@ transition: all 300ms;
     transition: transform 0.3s ease-in-out;
 }
 
+.disponible{
+    margin-top: 20px;
+}
+
+
 /** Seccion segunda . Segunda parte */
 .seccion_negra{
     background-color: black;
     color: white;
-    padding: 5%;
 }
 
 .seccion_negra a{
@@ -307,7 +316,7 @@ transition: all 300ms;
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 10%;
-    padding: 10%;
+    padding: 5%;
 }
 
 .solo_imagen{
@@ -316,45 +325,41 @@ transition: all 300ms;
     border-radius: 40px;
 }
 
-/** footer */
-.footer{
-    margin-top: 5%;
+.solo_imagen:hover{
+    transform: scalex(50px);
 }
 
-.opciones_footer{
+/** footer */
+footer{
     display: flex;
     flex-direction: column;
-    gap: 5%;
+    align-items: center;
+    background: linear-gradient(to top, #4A1717 40%, #0F3937 100%);
+
 }
 
-.opciones_footer a{
-    font-size: 20px;
-}
-
-.seccion_footer{
-    margin-top: 5%;
-    background: linear-gradient(to right, #014f86,#028ff3); // gradiente hacia la derecha
-    padding: 4%;
-}
-
-footer h3{
-    margin-top: 5%;
-}
-
-.opciones_footer a{
-    padding: 2%;
-}
-
-.opciones_footer a:hover{
-    background-color: orange;
-}
-
-.titulo_footer{
+.lista_uno,
+.app{
     font-size: 30px;
-    color: black;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; // cambiar fuente
+    text-align: left;
+    margin-top: 2%;
 }
 
+ul{
+    margin: 2%;
+}
+
+.lista_uno_elementos{
+    gap: 2%;
+}
+
+.lista_uno_elementos a{
+    color: white;
+}
+
+.app{
+    margin: 15%;
+}
 
 // media queries 
 @media (min-width: 576px) {
@@ -387,7 +392,6 @@ footer h3{
 
     .header_logo img{
         width: 50%;
-        border: 1px solid black;
     }
 
     .header_redes img{
@@ -412,14 +416,7 @@ footer h3{
         font-size: 30px;
         color: white;
         font-weight: bold;
-    }
-
-    /** footer img */
-    .footer{
-        width: 90%;
-        margin: auto;
-        margin-top: 5%;
-    }
+    }    
 
 }
 
@@ -451,19 +448,26 @@ footer h3{
     }
 
     /** tamaño dispositivos */
+   /** dispositivos */
     .dispositivos{
-        width: 65%;
-        margin: auto;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
     }
 
       /** footer img */
-    .enlaces_footer{
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
-    }
-    
-}
 
+    footer{
+        display: grid;
+        grid-template-columns: repeat(4,1fr);  
+        
+        align-items: center;
+    }
+
+    .app{
+        display: grid;
+        grid-template-columns:repeat(4,1fr);
+    }
+}
 
 @media (min-width: 1200px) {
     .Exclusivos{
