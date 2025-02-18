@@ -23,13 +23,13 @@ function mostrarImagenes(peliculas) {
         detalles.innerHTML = `
             <p style="font-size: 15px;">${pelicula.titulo}<br>
             Duracion: ${pelicula.duracion} min<br>
-            Genero: ${pelicula.genero}</p>
             <p style="font-size: 12px; text-align: justify;">${pelicula.descripcion}</p>
             <p style="width: 100px; font-size: 25px;">
                 <i class="bi bi-play-circle-fill icon"></i>
                 <i class="bi bi-pause-circle-fill icon"></i>
                 <i class="bi bi-star-fill icon"></i>
             </p>
+            <button class="button">VER PELICULA</button>
         `;
 
         // Añadir la imagen y los detalles a la card
@@ -60,6 +60,37 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 //-------------------------------------------------------------------------------------------
+
+/**
+ * PELICULAS PRIMER PLANO.
+ */
+
+function primerPlano(){
+    fetch("peliculas.json")
+    .then((response) =>{
+        return response.json();
+    })
+    .then((data) =>{
+        if(data.length > 0){
+            mostrarImagenes(data);
+        }else{
+            alert("No hay más películas");
+        }
+
+    })
+}
+
+const btn_primerPlano = document.querySelector(".primer_plano");
+btn_primerPlano.addEventListener("click" , () =>{
+    primerPlano();
+})
+
+
+
+
+
+//-------------------------------------------------------------------------------------------
+
 
 /**
  * PELICULAS ACCION
