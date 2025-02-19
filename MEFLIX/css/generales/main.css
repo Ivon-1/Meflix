@@ -107,7 +107,7 @@
 }
 
 .suscribete:hover {
-  background-color: orange;
+  background-color: #004271;
 }
 
 /** menu */
@@ -126,7 +126,7 @@
 }
 
 .menu a:hover {
-  background-color: orange;
+  background-color: #0162A6;
 }
 
 /** seccion azul */
@@ -151,6 +151,7 @@
   margin: auto;
   padding: 10px;
   margin-bottom: 10px;
+  font-size: 30px;
 }
 
 .suscribete_segundo a {
@@ -362,6 +363,9 @@ ul {
     justify-content: center;
     align-items: center;
   }
+  .header_login:hover {
+    background-color: #0162A6;
+  }
   .header_login a {
     text-align: center;
   }
@@ -441,6 +445,12 @@ ul {
     font-size: 30px;
     color: white;
     font-weight: bold;
+  }
+  .header_login a {
+    font-size: 25px;
+  }
+  .menu {
+    font-size: 25px;
   }
   .correo {
     margin-left: 50%;
