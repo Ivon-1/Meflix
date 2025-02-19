@@ -29,7 +29,8 @@ function mostrarImagenes(peliculas) {
                 <i class="bi bi-pause-circle-fill icon"></i>
                 <i class="bi bi-star-fill icon"></i>
             </p>
-            <button class="button">VER PELICULA</button>
+            <button onclick="window.location.href='detalle.html'">VER PELÍCULA</button>
+
         `;
 
         // Añadir la imagen y los detalles a la card

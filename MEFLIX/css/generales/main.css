@@ -383,7 +383,7 @@ ul {
   .menu {
     margin-top: 2%;
     display: grid;
-    grid-template-columns: repeat(6, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     margin-left: 8%;
     margin-right: 8%;
     gap: 5px;

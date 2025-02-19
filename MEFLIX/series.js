@@ -29,7 +29,8 @@ function mostrarImagenes(series) {
                 <i class="bi bi-pause-circle-fill icon"></i>
                 <i class="bi bi-star-fill icon"></i>
             </p>
-            <button class="button">VER EPISODIOS</button>
+           <button onclick="window.location.href='detalle_series.html'">VER EPISODIO</button>
+
         `;
 
         // Añadir la imagen y los detalles a la card
