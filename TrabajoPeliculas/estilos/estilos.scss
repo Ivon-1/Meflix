@@ -126,3 +126,183 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
+
+/**/
+@media (min-width: 576px ) { 
+    .header{
+        display: flex;
+        justify-content: space-between;
+
+        #logo{
+            width: 200px;
+        }
+    }
+
+    .enlaces{
+        button{
+            display: none;
+        }
+    }
+
+    .contenedor_botones{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        margin: auto;
+        padding: 3%;
+        .terror{
+            display: none;
+        }
+        button{
+            display: block;
+            margin: auto;
+            margin-top: 10px;
+            width: 500px;
+            height: 50px;
+        }
+    }
+
+    #card{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        padding: 20px;
+    }
+
+    .contenedor {
+        text-align: center;
+        font-size: x-large;
+        margin-bottom: 50px;
+    }
+}
+
+@media (min-width: 768px) {
+    .header{
+        display: flex;
+        #logo{
+            width: 300px;
+        }
+    }
+
+    .enlaces{
+        button{
+            display: none;
+        }
+    }
+
+    .contenedor_botones{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        margin: auto;
+        padding: 3%;
+        .terror{
+            display: none;
+        }
+        button{
+            display: block;
+            margin: auto;
+            margin-top: 10px;
+            width: 500px;
+            height: 50px;
+        }
+    }
+
+    #card{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        padding: 20px;
+    }
+
+    .contenedor {
+        text-align: center;
+        font-size: x-large;
+        margin-bottom: 50px;
+    }
+}
+
+@media (min-width: 992px) {
+    .header{
+        display: flex;
+        #logo{
+            width: 300px;
+        }
+    }
+
+    .enlaces{
+        button{
+            display: block;
+            height: 50px;
+        }
+    }
+
+    .contenedor_botones{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr ;
+        margin: auto;
+        padding: 3%;
+        .terror{
+            display: none;
+        }
+        button{
+            display: block;
+            margin: auto;
+            margin-top: 10px;
+            width: 500px;
+            height: 50px;
+        }
+    }
+
+    #card{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        padding: 20px;
+    }
+
+    .contenedor {
+        text-align: center;
+        font-size: x-large;
+        margin-bottom: 50px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .header{
+        display: flex;
+        #logo{
+            width: 400px;
+        }
+    }
+
+    .enlaces{
+        button{
+            display: block;
+        }
+    }
+
+    .contenedor_botones{
+        display: flex;
+        flex-wrap: wrap;
+        margin: auto;
+        padding: 3%;
+        .terror{
+            display: block;
+        }
+        button{
+            display: block;
+            margin: auto;
+            margin-top: 10px;
+            width: 500px;
+            height: 50px;
+        }
+    }
+
+    #card{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+        padding: 20px;
+    }
+
+    .contenedor {
+        text-align: center;
+        font-size: x-large;
+        margin-bottom: 50px;
+    }
+}
