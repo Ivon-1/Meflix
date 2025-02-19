@@ -29,6 +29,24 @@ ul {
   padding: 0 20px;
 }
 
+.volver-btn {
+  display: block;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin: 20px;
+  padding: 10px 20px;
+  background: rgba(219, 11, 11, 0.456);
+  color: white;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.volver-btn:hover {
+  background: #cc0000;
+}
+
 .player-container video {
   width: 100%;
   height: auto;
@@ -183,4 +201,15 @@ hr {
 .valoraciones li:hover {
   transform: scale(1.1);
   /* Zoom al pasar el mouse */
+<<<<<<< Updated upstream
+=======
+}
+
+@media (max-width: 756px) {
+  #similares {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+>>>>>>> Stashed changes
 }/*# sourceMappingURL=main.css.map */

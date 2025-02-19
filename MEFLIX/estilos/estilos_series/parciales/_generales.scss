@@ -1,26 +1,27 @@
-*,*::after,*::before{
+*,
+*::after,
+*::before {
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
 }
 
-body{
-   background: linear-gradient(to bottom ,#0F3937 40%,#4A1717 100%);
-   color: whitesmoke;
-   font-family: 'Poppins', sans-serif;
+body {
+    background: linear-gradient(to bottom, #0F3937 40%, #4A1717 100%);
+    color: whitesmoke;
+    font-family: 'Poppins', sans-serif;
 }
 
 
 
-img{
+img {
     max-width: 100%;
 }
 
-a{
+a {
     text-decoration: none;
 }
 
-ul{
+ul {
     list-style: none;
 }
-

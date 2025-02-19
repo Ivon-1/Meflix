@@ -5,6 +5,25 @@
     padding: 0 20px;
 }
 
+
+
+.volver-btn {
+    display: block;
+    width: fit-content;
+    margin: 20px ;
+    padding: 10px 20px;
+    background: rgba(219, 11, 11, 0.456);
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.volver-btn:hover {
+    background: #cc0000;
+}
+
 .player-container video {
     width: 100%;
     height: auto;
@@ -57,7 +76,8 @@
 }
 
 .boton_reproducir {
-    background-color: rgba(241, 3, 3, 0.3);;
+    background-color: rgba(241, 3, 3, 0.3);
+    ;
     color: white;
 }
 
@@ -66,9 +86,10 @@
     color: white;
 }
 
-.boton_reproducir:hover{
+.boton_reproducir:hover {
     background-color: #a41306;
 }
+
 .boton_descargar:hover {
     background-color: #48a705;
     /* Un color más oscuro para el hover */
@@ -140,7 +161,7 @@ hr {
 }
 
 /* Estilo para los íconos cuando están marcados */
-.valoraciones li .checked  {
+.valoraciones li .checked {
     color: #28a745;
     /* Color verde cuando está marcado */
     transform: scale(1.4);
@@ -162,3 +183,12 @@ hr {
     /* Zoom al pasar el mouse */
 }
 
+@media (max-width: 756px) {
+
+  #similares
+  {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+}

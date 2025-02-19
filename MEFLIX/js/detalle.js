@@ -19,13 +19,10 @@ async function getMovieData(title) {
 async function cargarPeliculasSimilares() {
     const similaresContainer = document.getElementById("similares");
 
-    if (!similaresContainer) {
-        console.error("El contenedor #similares no existe en el HTML.");
-        return;
-    }
+   
 
     // ✅ Lista de películas similares (puedes cambiar los títulos)
-    const peliculasSimilares = ["Goodfellas", "Scarface", "The Irishman", "Casino", "Taxi Driver", "Heat", "La noche es nuestra", "Pulp Fiction"];
+    const peliculasSimilares = ["Goodfellas", "Scarface", "The Irishman", "Casino", "Taxi Driver", "Heat", "La noche es nuestra", "Pulp Fiction","Asesino"];
 
     for (const title of peliculasSimilares) {
         const movie = await getMovieData(title);

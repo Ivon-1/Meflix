@@ -1,5 +1,7 @@
 @charset "UTF-8";
-*, *::after, *::before {
+*,
+*::after,
+*::before {
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
@@ -30,8 +32,26 @@ ul {
   text-align: center;
 }
 
+.volver-btn {
+  display: block;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin: 20px;
+  padding: 10px 20px;
+  background: rgba(219, 11, 11, 0.456);
+  color: white;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.volver-btn:hover {
+  background: #cc0000;
+}
+
 .player-container video {
-  width: 1400px;
+  width: 100%;
   height: auto;
   margin: auto;
   padding: 20px;
@@ -138,8 +158,8 @@ ul {
 }
 
 .similar-movie img {
-  width: 3000px;
-  height: auto;
+  width: auto; /* Ancho fijo */
+  height: 170px; /* Alto fijo */
   border-radius: 10px;
   transition: transform 0.3s ease;
 }
@@ -192,7 +212,9 @@ hr {
 .valoraciones li:hover {
   transform: scale(1.1);
   /* Zoom al pasar el mouse */
-} 
+}
+
+
 /* CSS DE LAS SERIES  */
 .capitulos {
   display: flex;
@@ -242,6 +264,11 @@ hr {
 @media (max-width: 768px) {
   .container {
     padding: 10px;
+  }
+  #similares {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
   }
   .capitulo {
     flex-direction: column;

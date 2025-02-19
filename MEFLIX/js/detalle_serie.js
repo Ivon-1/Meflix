@@ -23,7 +23,7 @@ async function cargarPeliculasSimilares() {
     }
 
     // ✅ Lista de películas similares (puedes cambiar los títulos)
-    const peliculasSimilares = ["Dark", "Enola Holmes", "Black mirror", "The Umbrella Academy", "Alice in borderland", "la orden", "sabrina", "The Witcher"];
+    const peliculasSimilares = ["Dark", "Enola Holmes", "Black mirror", "The Umbrella Academy", "Alice in borderland", "la orden", "sabrina", "The Witcher","Prison Break"];
 
     for (const title of peliculasSimilares) {
         const movie = await getMovieData(title);
