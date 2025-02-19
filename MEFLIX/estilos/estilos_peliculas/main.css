@@ -17,6 +17,7 @@ img {
 
 a {
   text-decoration: none;
+  color: white;
 }
 
 ul {
@@ -201,8 +202,6 @@ hr {
 .valoraciones li:hover {
   transform: scale(1.1);
   /* Zoom al pasar el mouse */
-<<<<<<< Updated upstream
-=======
 }
 
 @media (max-width: 756px) {
@@ -211,5 +210,4 @@ hr {
     flex-wrap: wrap;
     align-items: center;
   }
->>>>>>> Stashed changes
 }/*# sourceMappingURL=main.css.map */
