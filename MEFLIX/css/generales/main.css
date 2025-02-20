@@ -343,6 +343,7 @@ ul {
 
 .lista_uno_elementos {
   gap: 2%;
+  text-align: center;
 }
 
 .lista_uno_elementos a {
