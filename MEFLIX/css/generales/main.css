@@ -63,10 +63,11 @@
 .Exclusivos {
   position: absolute;
   top: 4%;
-  left: 4%;
+  left: 5%;
   font-size: 30px;
   color: white;
   font-weight: bold;
+  font-family: "Bebas Neue";
 }
 
 .correo_electronico {
@@ -391,21 +392,23 @@ ul {
   /** seccion 1 */
   .Exclusivos {
     position: absolute;
-    top: 10%;
-    left: 4%;
+    top: 4%;
+    left: 18%;
     font-size: 30px;
     color: white;
     font-weight: bold;
+    font-family: "Bebas Neue";
   }
 }
 @media (min-width: 992px) {
   .Exclusivos {
     position: absolute;
-    top: 15%;
-    left: 10%;
+    top: 9%;
+    left: 25%;
     font-size: 30px;
     color: white;
     font-weight: bold;
+    font-family: "Bebas Neue";
   }
   /** correo electronico */
   .correo_electronico {
@@ -441,11 +444,12 @@ ul {
 @media (min-width: 1200px) {
   .Exclusivos {
     position: absolute;
-    top: 15%;
-    left: 15%;
+    top: 9%;
+    left: 30%;
     font-size: 30px;
     color: white;
     font-weight: bold;
+    font-family: "Bebas Neue";
   }
   .header_login a {
     font-size: 25px;
@@ -464,11 +468,12 @@ ul {
 @media (min-width: 1400px) {
   .Exclusivos {
     position: absolute;
-    top: 15%;
-    left: 25%;
+    top: 9%;
+    left: 35%;
     font-size: 30px;
     color: white;
     font-weight: bold;
+    font-family: "Bebas Neue";
   }
   .correo {
     margin-left: 50%;
