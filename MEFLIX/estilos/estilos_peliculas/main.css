@@ -202,8 +202,6 @@ hr {
 .valoraciones li:hover {
   transform: scale(1.1);
   /* Zoom al pasar el mouse */
-
-  
 }
 
 @media (max-width: 756px) {
